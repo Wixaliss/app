@@ -1,0 +1,27 @@
+.me {
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+  gap: 10px;
+}
+
+.ava {
+  width: 70%;
+}
+
+.ava_mini {
+  width: 5%;
+}
+
+.posts {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.posts img {
+  margin: 5px;
+}
+
+.post {
+  margin: 20px 0;
+}
